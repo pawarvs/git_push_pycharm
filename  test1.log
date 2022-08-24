@@ -1,0 +1,6 @@
+2022-08-14 19:36:45,874 This is a log message with timestamp
+2022-08-14 20:21:52,757  : This is a log message with timestamp
+2022-08-14 20:26:40,479 root  : This is a log message with timestamp
+INFO 2022-08-14 20:27:14,336 root  : This is a log message with timestamp
+INFO 2022-08-14 20:27:20,406 root  : This is a log message with timestamp
+INFO root 2022-08-14 20:28:01,115   : This is a log message with timestamp

@@ -1,0 +1,12 @@
+ERROR root 2022-08-14 21:26:26,574  division by zero
+Traceback (most recent call last):
+  File "D:\Ineuron learning\pycharm\pythonProject12\practice.py", line 9, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2022-08-14 21:27:23,897  : The number entered by the user is 3 and 0
+INFO root 2022-08-14 21:27:23,898  : We are into function 
+ERROR root 2022-08-14 21:27:23,898  division by zero
+Traceback (most recent call last):
+  File "D:\Ineuron learning\pycharm\pythonProject12\practice.py", line 9, in divide
+    div = a/b
+ZeroDivisionError: division by zero
